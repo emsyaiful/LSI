@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lembaga Sensor Indonesia</string>
+    <string name="androidpermission">Please Allow Permission</string>
 </resources>
